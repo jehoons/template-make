@@ -1,2 +1,4 @@
 # template-make
-make-based project
+
+make project with user-defined configuration
+
